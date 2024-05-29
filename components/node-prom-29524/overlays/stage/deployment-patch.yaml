@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/dance-bootstrap-app:latest
+      - image: quay.io/rhtap-test-organization-jk/rhtap-qe:e97863aeb06f3ae72920d082dfb6d0bd84c6ff72@sha256:a52eff038452f5e6e9d3d6736dd39df688df17bbd94419cf2280abb461e61ae9
         name: container-image  
